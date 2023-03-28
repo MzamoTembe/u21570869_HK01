@@ -1,0 +1,29 @@
+<div class="container">
+    <h1>Courses</h1>
+    <!-- {{courses|json}} -->
+    <table class="table" *ngIf="courses && courses.length > 0 ">
+        <thead>
+            <tr>
+                <th> Name </th>
+                <th> Duration </th>
+                <th> Description </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let course of courses">
+                <td> {{course.name}} </td>
+                <td> {{course.duration}} </td>
+                <td> {{course.description}} </td>
+                <td> <button type="button" class="btn btn-secondary" [routerLink]="['/courses', 'edit', course.courseId]"> Edit </button> </td>
+                <td> <button type="button" class="btn btn-danger" (click)="deleteCourse(course.courseId)"> Delete </button> </td>    
+            </tr>
+        </tbody>
+    </table>
+    <div>
+        <p *ngIf="!courses || courses.length <= 0"> No Course Found! </p>
+        <div *ngIf="success==true" class="alert alert-danger alert-dismissible" role="alert"  style="max-width:fit-content;">
+            <strong>ALERT: </strong> A Course was deleted.
+            <button type="button" class="btn-close mt-2" data-bs-dismiss="alert" aria-label="Close" (click)="reloadPage()"></button>
+        </div>
+    </div>
+</div>

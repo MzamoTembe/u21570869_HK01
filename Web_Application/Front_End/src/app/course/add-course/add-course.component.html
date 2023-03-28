@@ -1,0 +1,24 @@
+<div class="container">
+    <h1> Add New Course </h1>
+    <form #form="ngForm" (ngSubmit)="addCourse()">
+        <div class="col-6">
+            <div class="mb-3">
+                <label for="name" class="form-label">Name</label>
+                <input type="name" class="form-control" id="name" [(ngModel)] = "addCourseRequest.name" name="name" #namecontrol = "ngModel" required>
+                <span *ngIf="namecontrol.invalid" style="color: red;"> Please enter a name </span>
+            </div>
+            <div class="mb-3">
+                <label for="duration" class="form-label">Duration</label>
+                <input type="text" class="form-control" id="duration" [(ngModel)] = "addCourseRequest.duration" name="duration" #durationcontrol = "ngModel" required>
+                <span *ngIf="durationcontrol.invalid" style="color: red;"> Please enter a duration </span>
+            </div>
+            <div class="mb-3">
+                <label for="description" class="form-label">Description</label>
+                <textarea class="form-control" id="description" rows="3" [(ngModel)] = "addCourseRequest.description" name="description" #descriptioncontrol = "ngModel" required></textarea>
+                <span *ngIf="descriptioncontrol.invalid" style="color: red;"> Please enter a description </span>
+            </div>
+            <button type="submit" class="btn btn-success m-3" [disabled]="form.invalid" >Submit</button>
+            <button type="button" class="btn btn-danger m-3" (click)="cancel()"> Cancel </button>
+        </div>
+    </form>
+</div>
