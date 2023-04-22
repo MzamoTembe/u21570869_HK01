@@ -1,5 +1,3 @@
-<script src="https://kit.fontawesome.com/0b5d91da46.js" crossorigin="anonymous"></script>
-
 # Quintessential IT - Acacia V0
 <div class="img-container" align="center"> 
   <img height="220px" src="https://drive.google.com/uc?export=view&id=11MofvhN2ZiIfKMU1DzfDQCu-dPRbYDGU" /> <br/> <br/>
@@ -59,7 +57,7 @@
 
 <!-- Project Description  -->
 <div class="img-container" align="center"> 
-  <img height="50px" src="https://user-images.githubusercontent.com/83949715/168064805-34d473b7-d845-4740-a9a0-a7a754725a85.png" /> <br/> <br/>
+  <h1> Project Description<h1>
 </div>
 <div align= "center"> 
 Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
