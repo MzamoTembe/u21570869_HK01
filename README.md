@@ -158,6 +158,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   <summary><h2>Aliyah Veipi</h2> </summary>
   <div markdown="1">
       <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQGwidFCvSiHiA/profile-displayphoto-shrink_400_400/0/1681149961034?e=1687392000&v=beta&t=L35celY3JMCPpKO8Psb9j--q_Hm92K3qQL9aD3TJ3No" /> 
+    
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -165,6 +166,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
+  
   ![image](https://github-readme-stats.vercel.app/api?username=21504394&theme=slateorange)
     
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/21504394)
