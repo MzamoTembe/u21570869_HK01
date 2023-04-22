@@ -93,6 +93,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
+    
   ![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=slateorange)
     
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/bryony-asrie-67a469207/)
@@ -111,6 +112,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
+    
   ![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=slateorange)
     
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MzamoTembe)
@@ -129,6 +131,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
+    
   ![image](https://github-readme-stats.vercel.app/api?username=u04897294&theme=slateorange)
     
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u04897294)
@@ -147,6 +150,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
+    
   ![image](https://github-readme-stats.vercel.app/api?username=u20502509&theme=slateorange)
     
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u20502509)
@@ -172,27 +176,5 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/21504394)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/aliyah-veipi-4ba799161/)
   </div>
-</details>
-  
-<details>
-  <summary><h2>Richard Lastrucci</h2></summary>
-  <div markdown="1">
-      <img align="left" height="350px" src="https://user-images.githubusercontent.com/83949715/168029371-915564ae-73a0-4026-a47f-f7ec0c9ea688.png" /> 
-
-      <p>
-         I am a 3rd year Computer Science student specialising in Data
-         Science. I am by no means the best programmer, but I make up
-         for it in good people skills and a strong determination to
-         succeed - I will pull an all nighter if necessary, provided I
-         have enough coffee 🙂 
-         I hope to pursue a career in data science as I like the overlap
-         of computer science, business and statistics.
-      </p>
-
-  ![image](https://github-readme-stats.vercel.app/api?username=lastrucci01&theme=slateorange)
-
-  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lastrucci01)
-  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/richard-lastrucci-9a63211a3/)
-  </div> 
 </details>
 <br/>
