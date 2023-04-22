@@ -120,7 +120,7 @@
 <details>
   <summary><h2>Paul Adesola </h2> </summary>
   <div markdown="1">
-      <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQG_B8SwbEk3sg/profile-displayphoto-shrink_400_400/0/1676753062801?e=1687392000&v=beta&t=nyTFW41l4A9B8o3mfuoL8uJIW7zexDM1_PWF8Woiz_o" /> 
+      <img align="left" height="400px" src="https://media.licdn.com/dms/image/D4D03AQG_B8SwbEk3sg/profile-displayphoto-shrink_400_400/0/1676753062801?e=1687392000&v=beta&t=nyTFW41l4A9B8o3mfuoL8uJIW7zexDM1_PWF8Woiz_o" /> 
     
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
