@@ -55,14 +55,16 @@
     
 <br> <br/> 
     
-<h1> Project Description <h1>
+<h1> Project Description </h1>
+  <div>
 <p>Acacia is axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <p/>
+  </div>
 
 <br> <br/> 
 
 <!-- Technologies  -->
-<h1> Technologies <h1>
+<h1> Technologies </h1>
 <div class="container" align="center"> 
    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
    <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
@@ -73,7 +75,7 @@
 <br/> <br/>
 
   <!-- Team Members  -->
-<h2> Members <h2>
+<h1> Members </h1>
   
 <details>
   <summary><h2>Bryony Asrie </h2> </summary>
