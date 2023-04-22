@@ -55,7 +55,7 @@
     
 <br> <br/> 
     
-<h1> Project Description<h1>
+<h1> Project Description <h1>
 <p>Acacia is axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <p/>
 
@@ -73,7 +73,7 @@
 <br/> <br/>
 
   <!-- Team Members  -->
-<h1> Memebers <h1>
+<h2> Members <h2>
   
 <details>
   <summary><h2>Bryony Asrie </h2> </summary>
