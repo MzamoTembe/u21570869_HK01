@@ -115,7 +115,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
     
-  ![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=slateorange)
+  ![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=noctis_minimus)
     
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MzamoTembe)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/mzamotembe/)
@@ -135,7 +135,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
     
-  ![image](https://github-readme-stats.vercel.app/api?username=u04897294&theme=slateorange)
+  ![image](https://github-readme-stats.vercel.app/api?username=u04897294&theme=noctis_minimus)
     
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u04897294)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/paul-adesola-1b1079198/)
@@ -155,7 +155,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
     
-  ![image](https://github-readme-stats.vercel.app/api?username=u20502509&theme=slateorange)
+  ![image](https://github-readme-stats.vercel.app/api?username=u20502509&theme=noctis_minimus)
     
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u20502509)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/caleb-thilmun-b44056151/)
@@ -175,7 +175,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
   
-  ![image](https://github-readme-stats.vercel.app/api?username=21504394&theme=slateorange)
+  ![image](https://github-readme-stats.vercel.app/api?username=21504394&theme=noctis_minimus)
     
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/21504394)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/aliyah-veipi-4ba799161/)
