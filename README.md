@@ -1,6 +1,6 @@
-# Quintessential IT - Acacia V0
+# Quintessential IT - Acacia V1.0
 <div class="img-container" align="center"> 
-  <img height="220px" src="https://drive.google.com/uc?export=view&id=11MofvhN2ZiIfKMU1DzfDQCu-dPRbYDGU" /> <br/> <br/>
+  <img height="300px" src="https://drive.google.com/uc?export=view&id=11MofvhN2ZiIfKMU1DzfDQCu-dPRbYDGU" /> <br/> <br/>
 </div>
 
   <p align="center">
@@ -50,6 +50,7 @@
     <a href=""> Manual </a>
   </p> <br/>
   </details>
+  <br/>
     
 <!-- Project Description  -->
 <h2> Project Description </h2>
