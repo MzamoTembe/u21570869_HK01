@@ -1,3 +1,5 @@
+<script src="https://kit.fontawesome.com/0b5d91da46.js" crossorigin="anonymous"></script>
+
 # Quintessential IT - Acacia V0
 <div class="img-container" align="center"> 
   <img height="220px" src="https://drive.google.com/uc?export=view&id=11MofvhN2ZiIfKMU1DzfDQCu-dPRbYDGU" /> <br/> <br/>
@@ -66,7 +68,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 <!-- Technologies  -->
 <div class="img-container" align="center"> 
-  <img height="52px" src="https://user-images.githubusercontent.com/83949715/168104816-2c4f91a7-7da7-49ca-b210-7d83be12fbbb.png" /> <br/> <br/> <br/>
+  <i class="fa-solid fa-less-than"></i> <img height="52px" src="https://user-images.githubusercontent.com/83949715/168104816-2c4f91a7-7da7-49ca-b210-7d83be12fbbb.png" /><i class="fa-solid fa-greater-than"></i> <br/> <br/> <br/>
 </div>
 <div class="img-container" align="center"> 
    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
