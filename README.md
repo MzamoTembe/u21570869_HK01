@@ -76,7 +76,7 @@
 <h2> Members </h2>
   
 <details>
-  <summary><h3>Bryony Asrie </h3> </summary>
+  <summary><h3>Bryony Asrie (Leader) </h3> </summary>
   <div markdown="1">
       <img align="left" height="380px" src="https://media.licdn.com/dms/image/C4E03AQHGquCksCCexg/profile-displayphoto-shrink_400_400/0/1614073989075?e=1687392000&v=beta&t=TJCXw0tiOKhGUCxr0QMpRiYY32RWe3hqYUxSZ8kS1iA" /> 
     
