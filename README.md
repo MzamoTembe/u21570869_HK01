@@ -81,11 +81,11 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <div class="img-container" align="center"> 
   <img height="51px" src="https://user-images.githubusercontent.com/83949715/168105259-31d067d9-c3d5-4e5b-8e58-17109a453927.png" /> <br/> <br/>
 </div>
+  
 <details>
   <summary><h2>Bryony Asrie </h2> </summary>
   <div markdown="1">
       <img align="left" height="350px" src="https://media.licdn.com/dms/image/C4E03AQHGquCksCCexg/profile-displayphoto-shrink_400_400/0/1614073989075?e=1687392000&v=beta&t=TJCXw0tiOKhGUCxr0QMpRiYY32RWe3hqYUxSZ8kS1iA" /> 
-
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -93,10 +93,8 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
-
   ![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=slateorange)
-
-  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arlo216](https://github.com/MzamoTembe)
+  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/bryony-asrie-67a469207/)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/bryony-asrie-67a469207/)
   </div>
  </details>
@@ -105,7 +103,6 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   <summary><h2>Mzamo Tembe</h2> </summary>
   <div markdown="1">
       <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQHo1GadI5e3-w/profile-displayphoto-shrink_400_400/0/1665070269809?e=1687392000&v=beta&t=JSov-o5hE9ljd4s4hkQUdB0lWgtI4uifbY7QGUgK0pk" /> 
-
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -113,20 +110,16 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
-
   ![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=slateorange)
-
-  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arlo216](https://github.com/MzamoTembe)
+  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MzamoTembe)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/mzamotembe/)
   </div>
  </details>
   
-
 <details>
   <summary><h2>Paul Adesola </h2> </summary>
   <div markdown="1">
       <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQG_B8SwbEk3sg/profile-displayphoto-shrink_400_400/0/1676753062801?e=1687392000&v=beta&t=nyTFW41l4A9B8o3mfuoL8uJIW7zexDM1_PWF8Woiz_o" /> 
-
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -134,18 +127,16 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
-
   ![image](https://github-readme-stats.vercel.app/api?username=u04897294&theme=slateorange)
-
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u04897294)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/paul-adesola-1b1079198/)
   </div>
 </details>
+  
 <details>
   <summary><h2>Caleb Thilmun</h2> </summary>
   <div markdown="1">
       <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQGtY0xwjuAEjA/profile-displayphoto-shrink_400_400/0/1679148827850?e=1687392000&v=beta&t=4OmXEZPqCuEoNZu6W-xd9BjkGbRb7iZ8C_1De_ckdf4" /> 
-
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -153,18 +144,16 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
-
   ![image](https://github-readme-stats.vercel.app/api?username=u20502509&theme=slateorange)
-
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u20502509)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/caleb-thilmun-b44056151/)
   </div>
 </details> 
+  
 <details>
   <summary><h2>Aliyah Veipi</h2> </summary>
   <div markdown="1">
       <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQGwidFCvSiHiA/profile-displayphoto-shrink_400_400/0/1681149961034?e=1687392000&v=beta&t=L35celY3JMCPpKO8Psb9j--q_Hm92K3qQL9aD3TJ3No" /> 
-
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -172,9 +161,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
-
   ![image](https://github-readme-stats.vercel.app/api?username=21504394&theme=slateorange)
-
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/21504394)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/aliyah-veipi-4ba799161/)
   </div>
