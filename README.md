@@ -86,6 +86,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   <summary><h2>Bryony Asrie </h2> </summary>
   <div markdown="1">
       <img align="left" height="350px" src="https://media.licdn.com/dms/image/C4E03AQHGquCksCCexg/profile-displayphoto-shrink_400_400/0/1614073989075?e=1687392000&v=beta&t=TJCXw0tiOKhGUCxr0QMpRiYY32RWe3hqYUxSZ8kS1iA" /> 
+    
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -105,6 +106,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   <summary><h2>Mzamo Tembe</h2> </summary>
   <div markdown="1">
       <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQHo1GadI5e3-w/profile-displayphoto-shrink_400_400/0/1665070269809?e=1687392000&v=beta&t=JSov-o5hE9ljd4s4hkQUdB0lWgtI4uifbY7QGUgK0pk" /> 
+    
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -124,6 +126,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   <summary><h2>Paul Adesola </h2> </summary>
   <div markdown="1">
       <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQG_B8SwbEk3sg/profile-displayphoto-shrink_400_400/0/1676753062801?e=1687392000&v=beta&t=nyTFW41l4A9B8o3mfuoL8uJIW7zexDM1_PWF8Woiz_o" /> 
+    
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -143,6 +146,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   <summary><h2>Caleb Thilmun</h2> </summary>
   <div markdown="1">
       <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQGtY0xwjuAEjA/profile-displayphoto-shrink_400_400/0/1679148827850?e=1687392000&v=beta&t=4OmXEZPqCuEoNZu6W-xd9BjkGbRb7iZ8C_1De_ckdf4" /> 
+    
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
