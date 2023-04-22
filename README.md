@@ -29,7 +29,7 @@
 
   <details>
   <summary>Internallly Tested System Deliverable (7) </summary>
-  <p align="center">
+  <p align="left">
     🎥
     <a href=""> Demo </a>
     | 📝
@@ -41,7 +41,7 @@
   
   <details>
   <summary> Final System (Deliverable 8) </summary>
-  <p align="center">
+  <p align="left">
     🎥
     <a href=""> Demo </a>
     | 📝
@@ -55,11 +55,12 @@
     
 <br> <br/> 
     
-<h1 style="color: #ACA59D"> Project Description </h1>
-  <div class="container">
+<!-- Project Description  -->
+<h1> Project Description </h1>
+<div class="container">
   <p>Acacia is axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   <p/>
-  </div>
+</div>
 
 <br> <br/> 
 
