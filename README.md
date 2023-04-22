@@ -8,54 +8,194 @@
 
 
 # Cacia 
+# Quintessential IT - Acacia V0
+<div class="img-container" align="center"> 
+  <img height="220px" src="https://user-images.githubusercontent.com/83949715/168036007-b6e2d8b3-f17b-4f3d-b664-e024118fdf36.png" /> <br/> <br/>
+</div>
 
-## Quintessential IT - Acacia - Project Description
-Acacia is xxxxxxxxxxxxxxxxxxxxxxxxxx
+  <p align="center">
+    ⬇️
+    <a href="">Download APK</a>
+    | 📝
+    <a href="">Documentation</a>
+    | 📋
+    <a href="">User Manual</a>
+    | 📺
+    <a href="">Video Demo</a>
+    <br> <br>
+    📔
+    <a href="">Manual</a>
+    | 💻
+    <a href="">Coding Standards</a>
+    | 🎥 
+    <a href="">Demo Video</a>
+    <br> <br>
+    🌐
+    <a href="">Wiki - Installation, slideshow, project management and research</a>
+    
+  </p>
+  <br />   <br />
+  
 
-## Demo Recordings
+  <details>
+  <summary>Internallly Tested System</summary>
+  <p align="center">
+    🎥
+    <a href="https://drive.google.com/file/d/1wp2UNChPoqvsdd8Z8mk8xaT5QPulFo6p/view?usp=sharing"> Demo </a>
+    | 📝
+    <a href="https://drive.google.com/file/d/1BlUn4xhV2aT2wHjxxFXrEgVvRQu-_CTw/view?usp=sharing"> Documentation </a>
+    | 📋
+    <a href="https://drive.google.com/file/d/1qt9nwzzKl4dw6GhQM0cZwAHEaprfs-uy/view?usp=sharing"> Manual </a>
+  </p> <br/>
+  </details>
+  
+  <details>
+  <summary>Internallly Final System </summary>
+  <p align="center">
+    🎥
+    <a href="https://drive.google.com/file/d/1wp2UNChPoqvsdd8Z8mk8xaT5QPulFo6p/view?usp=sharing"> Demo </a>
+    | 📝
+    <a href="https://drive.google.com/file/d/1BlUn4xhV2aT2wHjxxFXrEgVvRQu-_CTw/view?usp=sharing"> Documentation </a>
+    | 📋
+    <a href="https://drive.google.com/file/d/1qt9nwzzKl4dw6GhQM0cZwAHEaprfs-uy/view?usp=sharing"> Manual </a>
+  </p> <br/>
+  </details>
+  
+  
+    
+<br>
 
-[DEMOS]()
+<div class="img-container" align="center"> 
+  <img height="50px" src="https://user-images.githubusercontent.com/83949715/168064805-34d473b7-d845-4740-a9a0-a7a754725a85.png" /> <br/> <br/>
+</div>
+<div align= "center"> 
+Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-## System Documentation
+<br/> <br/>
 
-[All DEMO documentation]()
+<div class="img-container" align="center"> 
+  <img height="52px" src="https://user-images.githubusercontent.com/83949715/168104816-2c4f91a7-7da7-49ca-b210-7d83be12fbbb.png" /> <br/> <br/> <br/>
+</div>
 
-### Final Documentation
+<div class="img-container" align="center"> 
+   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />  
+</div>
 
-[DEMO 4 Documentation]()
+<br/> <br/>
 
-### Project Day
+<div class="img-container" align="center"> 
+  <img height="51px" src="https://user-images.githubusercontent.com/83949715/168105259-31d067d9-c3d5-4e5b-8e58-17109a453927.png" /> <br/> <br/>
+</div>
+  
+  <details>
+<summary><h2>Bryony Asrie </h2> </summary>
+<div markdown="1">
+    <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQHo1GadI5e3-w/profile-displayphoto-shrink_400_400/0/1665070269809?e=1687392000&v=beta&t=JSov-o5hE9ljd4s4hkQUdB0lWgtI4uifbY7QGUgK0pk" /> 
 
-[VIDEO]()
+    <p>
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    </p>
+    
+![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=slateorange)
+    
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/arlo216](https://github.com/MzamoTembe))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/mzamotembe/)
+</div>
+ </details>
+  
+  <details>
+<summary><h2>Mzamo Tembe</h2> </summary>
+<div markdown="1">
+    <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQHo1GadI5e3-w/profile-displayphoto-shrink_400_400/0/1665070269809?e=1687392000&v=beta&t=JSov-o5hE9ljd4s4hkQUdB0lWgtI4uifbY7QGUgK0pk" /> 
 
-[POWERPOINT SLIDES]()
+    <p>
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    </p>
+    
+![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=slateorange)
+    
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/arlo216](https://github.com/MzamoTembe))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/mzamotembe/)
+</div>
+ </details>
+  
 
-## Technologies Used
-Angular, ASP.NET, SQL, AWS
+<details>
+<summary><h2>Paul Adesola </h2> </summary>
+<div markdown="1">
+    <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQHo1GadI5e3-w/profile-displayphoto-shrink_400_400/0/1665070269809?e=1687392000&v=beta&t=JSov-o5hE9ljd4s4hkQUdB0lWgtI4uifbY7QGUgK0pk" /> 
 
-## Team
-### Bryony Asrie [LinkedIn]() - Team Leader, Role
-<img src="https://user-images.githubusercontent.com/93526910/168092215-e57dc66c-cf3b-4c6f-85cd-bdf18ba7b292.png" width="300" height="200"/>
+    <p>
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    </p>
+    
+![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=slateorange)
+    
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/arlo216](https://github.com/MzamoTembe))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/mzamotembe/)
+</div>
+ </details>
 
-I am the group leader xxxxxxxx
+<details>
+  
+  <details>
+<summary><h2>Caleb Thilmun</h2> </summary>
+<div markdown="1">
+    <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQHo1GadI5e3-w/profile-displayphoto-shrink_400_400/0/1665070269809?e=1687392000&v=beta&t=JSov-o5hE9ljd4s4hkQUdB0lWgtI4uifbY7QGUgK0pk" /> 
 
-### Mzamo Tembe [LinkedIn]() - API, Frontend
-<img src="https://user-images.githubusercontent.com/93526910/168092981-e2b4d398-e713-40ba-9e06-fcf2fb50ca41.jpg" width="200" height="300"/>
+    <p>
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    </p>
+    
+![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=slateorange)
+    
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/arlo216](https://github.com/MzamoTembe))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/mzamotembe/)
+</div>
+ </details>
 
-Mzamo is xxxxxxxxxxxxxxxx
+<details>
+  
+  <details>
+<summary><h2>Aliyah Veipi</h2> </summary>
+<div markdown="1">
+    <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQHo1GadI5e3-w/profile-displayphoto-shrink_400_400/0/1665070269809?e=1687392000&v=beta&t=JSov-o5hE9ljd4s4hkQUdB0lWgtI4uifbY7QGUgK0pk" /> 
 
+    <p>
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    </p>
+    
+![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=slateorange)
+    
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/arlo216](https://github.com/MzamoTembe))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/mzamotembe/)
+</div>
+ </details>
 
-### Paul Adesola [LinkedIn]() - xxxxxx
-<img src="https://user-images.githubusercontent.com/93526910/168092473-1bfb0b5c-2cc3-4d4c-976d-bf621358b38b.jpg" width="200" height="300"/>
+<details>
 
-Paul is xxxxxxxxxxxxxxxxxx
-
-### Caleb Thilmun [LinkedIn]() - xxxxxxxxxxx
-<img src="https://user-images.githubusercontent.com/93526910/168092438-b1d9a561-380e-447a-9e86-0514db05ae27.jpeg" width="200" height="300"/>
-
-Caleb is xxxxxxxxxxxxxx
-
-### Brett Du Plessis [LinkedIn]() - xxxxxxxxxxxxx
-<img src="https://user-images.githubusercontent.com/93526910/168096437-eee24d03-5bd3-418c-a086-9b8d05de9011.jpg" width="200" height="300"/>
-
-Aliyah is xxxxxxxxxxxxxxx
+<br/>
