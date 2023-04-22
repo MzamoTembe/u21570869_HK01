@@ -81,7 +81,6 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <div class="img-container" align="center"> 
   <img height="51px" src="https://user-images.githubusercontent.com/83949715/168105259-31d067d9-c3d5-4e5b-8e58-17109a453927.png" /> <br/> <br/>
 </div>
-  
 <details>
   <summary><h2>Bryony Asrie </h2> </summary>
   <div markdown="1">
@@ -136,16 +135,16 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
 
-  ![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=slateorange)
+  ![image](https://github-readme-stats.vercel.app/api?username=u04897294&theme=slateorange)
 
-  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/arlo216](https://github.com/MzamoTembe))
-  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/mzamotembe/)
+  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u04897294))
+  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/paul-adesola-1b1079198/)
   </div>
 </details>
 <details>
   <summary><h2>Caleb Thilmun</h2> </summary>
   <div markdown="1">
-      <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQHo1GadI5e3-w/profile-displayphoto-shrink_400_400/0/1665070269809?e=1687392000&v=beta&t=JSov-o5hE9ljd4s4hkQUdB0lWgtI4uifbY7QGUgK0pk" /> 
+      <img align="left" height="350px" src="https://media.licdn.com/dms/image/D4D03AQGtY0xwjuAEjA/profile-displayphoto-shrink_400_400/0/1679148827850?e=1687392000&v=beta&t=4OmXEZPqCuEoNZu6W-xd9BjkGbRb7iZ8C_1De_ckdf4" /> 
 
       <p>
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -155,15 +154,12 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
 
-  ![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=slateorange)
+  ![image](https://github-readme-stats.vercel.app/api?username=u20502509&theme=slateorange)
 
-  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/arlo216](https://github.com/MzamoTembe))
-  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/mzamotembe/)
+  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u20502509))
+  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/caleb-thilmun-b44056151/)
   </div>
-</details>
-
-<details>
-  
+</details> 
 <details>
   <summary><h2>Aliyah Veipi</h2> </summary>
   <div markdown="1">
