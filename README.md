@@ -95,7 +95,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
     
-  ![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=ACA59D)
+  ![image](https://github-readme-stats.vercel.app/api?username=mzamotembe&theme=noctis_minimus)
     
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/bryony-asrie-67a469207/)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/bryony-asrie-67a469207/)
