@@ -1,6 +1,6 @@
 # Quintessential IT - Acacia V0
 <div class="img-container" align="center"> 
-  <img height="220px" src="https://user-images.githubusercontent.com/83949715/168036007-b6e2d8b3-f17b-4f3d-b664-e024118fdf36.png" /> <br/> <br/>
+  <img height="220px" src="https://drive.google.com/uc?export=view&id=11MofvhN2ZiIfKMU1DzfDQCu-dPRbYDGU" /> <br/> <br/>
 </div>
 
   <p align="center">
@@ -71,7 +71,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <div class="img-container" align="center"> 
    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
    <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
    <img src="https://img.shields.io/badge/amazonaws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
    <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />  
 </div>
