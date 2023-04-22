@@ -50,10 +50,6 @@
     <a href=""> Manual </a>
   </p> <br/>
   </details>
-  
-  
-    
-<br> <br/> 
     
 <!-- Project Description  -->
 <h2> Project Description </h2>
