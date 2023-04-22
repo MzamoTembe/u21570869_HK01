@@ -29,6 +29,7 @@
 
   <details>
   <summary>Internallly Tested System Deliverable (7) </summary>
+  <br />   <br />
   <p align="left">
     🎥
     <a href=""> Demo </a>
@@ -41,6 +42,7 @@
   
   <details>
   <summary> Final System (Deliverable 8) </summary>
+  <br />   <br />
   <p align="left">
     🎥
     <a href=""> Demo </a>
