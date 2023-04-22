@@ -28,8 +28,7 @@
   
 
   <details>
-  <summary> <h1>Internallly Tested System Deliverable (7) </h1> </summary>
-  <br />
+  <summary> <h2>Internallly Tested System Deliverable (7) </h2> </summary>
   <p align="left">
     🎥
     <a href=""> Demo </a>
@@ -41,8 +40,7 @@
   </details>
   
   <details>
-  <summary> Final System (Deliverable 8) </summary>
-  <br />
+  <summary> <h2> Final System (Deliverable 8) </h2> </summary>
   <p align="left">
     🎥
     <a href=""> Demo </a>
@@ -58,7 +56,7 @@
 <br> <br/> 
     
 <!-- Project Description  -->
-<h1> Project Description </h1>
+<h2> Project Description </h2>
 <div class="container">
   <p>Acacia is axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   <p/>
@@ -67,7 +65,7 @@
 <br> <br/> 
 
 <!-- Technologies  -->
-<h1> Technologies </h1>
+<h2> Technologies </h2>
 <div class="container" align="center"> 
    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
    <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
@@ -78,10 +76,10 @@
 <br/> <br/>
 
   <!-- Team Members  -->
-<h1> Members </h1>
+<h2> Members </h2>
   
 <details>
-  <summary><h2>Bryony Asrie </h2> </summary>
+  <summary><h3>Bryony Asrie </h3> </summary>
   <div markdown="1">
       <img align="left" height="380px" src="https://media.licdn.com/dms/image/C4E03AQHGquCksCCexg/profile-displayphoto-shrink_400_400/0/1614073989075?e=1687392000&v=beta&t=TJCXw0tiOKhGUCxr0QMpRiYY32RWe3hqYUxSZ8kS1iA" /> 
     
@@ -101,7 +99,7 @@
  </details>
   
 <details>
-  <summary><h2>Mzamo Tembe</h2> </summary>
+  <summary><h3>Mzamo Tembe</h3> </summary>
   <div markdown="1">
       <img align="left" height="380px" src="https://media.licdn.com/dms/image/D4D03AQHo1GadI5e3-w/profile-displayphoto-shrink_400_400/0/1665070269809?e=1687392000&v=beta&t=JSov-o5hE9ljd4s4hkQUdB0lWgtI4uifbY7QGUgK0pk" /> 
     
@@ -121,7 +119,7 @@
  </details>
   
 <details>
-  <summary><h2>Paul Adesola </h2> </summary>
+  <summary><h3>Paul Adesola </h3> </summary>
   <div markdown="1">
       <img align="left" height="380px" src="https://media.licdn.com/dms/image/D4D03AQG_B8SwbEk3sg/profile-displayphoto-shrink_400_400/0/1676753062801?e=1687392000&v=beta&t=nyTFW41l4A9B8o3mfuoL8uJIW7zexDM1_PWF8Woiz_o" /> 
     
@@ -141,7 +139,7 @@
 </details>
   
 <details>
-  <summary><h2>Caleb Thilmun</h2> </summary>
+  <summary><h3>Caleb Thilmun</h3> </summary>
   <div markdown="1">
       <img align="left" height="380px" src="https://media.licdn.com/dms/image/D4D03AQGtY0xwjuAEjA/profile-displayphoto-shrink_400_400/0/1679148827850?e=1687392000&v=beta&t=4OmXEZPqCuEoNZu6W-xd9BjkGbRb7iZ8C_1De_ckdf4" /> 
     
@@ -161,7 +159,7 @@
 </details> 
   
 <details>
-  <summary><h2>Aliyah Veipi</h2> </summary>
+  <summary><h3>Aliyah Veipi</h3> </summary>
   <div markdown="1">
       <img align="left" height="380px" src="https://media.licdn.com/dms/image/D4D03AQGwidFCvSiHiA/profile-displayphoto-shrink_400_400/0/1681149961034?e=1687392000&v=beta&t=L35celY3JMCPpKO8Psb9j--q_Hm92K3qQL9aD3TJ3No" /> 
     
