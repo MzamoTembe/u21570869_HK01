@@ -173,7 +173,7 @@ Acacia is a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
       </p>
 
-  ![image](https://github-readme-stats.vercel.app/api?username=21504394e&theme=slateorange)
+  ![image](https://github-readme-stats.vercel.app/api?username=21504394&theme=slateorange)
 
   [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/21504394)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/aliyah-veipi-4ba799161/)
